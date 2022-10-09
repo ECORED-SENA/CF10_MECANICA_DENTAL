@@ -7,14 +7,14 @@
         span 5
       h1 Prescripción clínica
     
-    p.mb-5 La prescripción deberá estar sustentada en una evaluación previa del paciente, se realizará en idioma español, en forma escrita, sea manuscrita, mecanográfica, medio electromagnético o computarizada. No podrá contener enmendaduras o tachaduras, siglas, claves, abreviaturas o símbolos, diferentes a los estipulados en lex - artis o convenciones internacionales y contendrá la siguiente información:
+    p.mb-5(data-aos="fade-right") La prescripción deberá estar sustentada en una evaluación previa del paciente, se realizará en idioma español, en forma escrita, sea manuscrita, mecanográfica, medio electromagnético o computarizada. No podrá contener enmendaduras o tachaduras, siglas, claves, abreviaturas o símbolos, diferentes a los estipulados en lex - artis o convenciones internacionales y contendrá la siguiente información:
 
     .mb-5.p-4(style="background-color: #E7F9FA")
       .col-xl-10.d-flex.flex-wrap.align-items-center.mx-auto
         .col-lg-5.mb-4.mb-lg-0
-          img(src="@/assets/curso/temas/tema5/img-1.svg")
+          img(src="@/assets/curso/temas/tema5/img-1.svg" data-aos="fade-right")
         .col-lg-7.ps-lg-4
-          p #[b(style="color: #0273BC") ●] Nombre legible del prestador de servicios de salud, dirección, número telefónico o dirección electrónica, número de registro profesional de quien prescribe.
+          p(data-aos="fade-left") #[b(style="color: #0273BC") ●] Nombre legible del prestador de servicios de salud, dirección, número telefónico o dirección electrónica, número de registro profesional de quien prescribe.
             br
             |#[b(style="color: #0273BC") ●] Lugar y fecha de la prescripción.
             br
@@ -29,11 +29,11 @@
             |#[b(style="color: #0273BC") ●] Vigencia de la prescripción. La prescripción del dispositivo médico sobre medida bucal vence en seis (6) meses. Una vez transcurrido este tiempo, y al no haber concluido el trabajo, es necesario una nueva valoración del paciente y con fundamento a lo cual se determinará iniciar nuevamente el proceso de fabricación.
             br
             |#[b(style="color: #0273BC") ●] Firma del odontólogo tratante.
-    p.mb-5 La orden de trabajo de una prótesis parcial removible enviada por el odontólogo tiene las siguientes especificaciones: 
+    p.mb-5(data-aos="fade-right") La orden de trabajo de una prótesis parcial removible enviada por el odontólogo tiene las siguientes especificaciones: 
 
     .d-flex.flex-wrap
       .col-xl-7
-        LineaTiempoD.linea-tiempo-edit
+        LineaTiempoD.linea-tiempo-edit(data-aos="fade-right")
           p(numero="1" titulo="Seleccionar") Indica si es una prótesis removible superior, inferior o ambas arcadas. 
           p(numero="2" titulo="Optar") Se encuentra una marca del material con el cual será realizada la prótesis removible (cromo-cobalto, acrílico, oro tipo VII, titanio).
           p(numero="3" titulo="Clasificación de Kennedy") Menciona el tipo de arcada según la clasificación de Kennedy.
@@ -74,7 +74,7 @@
           p(numero="10" titulo="Material y color de dientes") Debe mencionar el material de los dientes y el color que se va a utilizar.
 
       .col-5.d-none.d-xl-flex.ps-4
-        img(src="@/assets/curso/temas/tema5/img-2.jpg")
+        img(src="@/assets/curso/temas/tema5/img-2.jpg" data-aos="fade-left")
 </template>
 
 <script>
