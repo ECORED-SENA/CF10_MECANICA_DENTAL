@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="85" height="85" viewBox="0 0 85 85">
+  <g id="Grupo_878806" data-name="Grupo 878806" transform="translate(-290.83 -5464)">
+    <circle id="Elipse_5241" data-name="Elipse 5241" cx="42.5" cy="42.5" r="42.5" transform="translate(290.83 5464)" fill="#0273bc"/>
+    <g id="XMLID_889_" transform="translate(303.83 5457.059)">
+      <path id="XMLID_890_" d="M240,30h3.423V81.353H240Z" transform="translate(-212.612 -6.253)" fill="#fff"/>
+      <path id="XMLID_899_" d="M310.069,24.553l-3.021-1.611A56.073,56.073,0,0,0,300,49.424a56.073,56.073,0,0,0,7.048,26.482l3.021-1.611c-8.8-16.5-8.8-33.239,0-49.742Z" transform="translate(-265.765 -0.001)" fill="#fff"/>
+      <path id="XMLID_901_" d="M121.765,24.552c8.8,16.5,8.8,33.239,0,49.742l3.021,1.611a56.076,56.076,0,0,0,7.048-26.482,56.075,56.075,0,0,0-7.048-26.482Z" transform="translate(-107.87)" fill="#fff"/>
+      <path id="XMLID_902_" d="M11.695,201.68l-2.849,1.9,1.649,2.474H0v3.424H10.5l-1.649,2.474,2.849,1.9,4.057-6.085Z" transform="translate(0 -158.342)" fill="#fff"/>
+      <path id="XMLID_903_" d="M387.724,206.053h-10.5l1.649-2.474-2.848-1.9-4.057,6.085,4.057,6.085,2.848-1.9-1.649-2.474h10.5Z" transform="translate(-329.525 -158.342)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
