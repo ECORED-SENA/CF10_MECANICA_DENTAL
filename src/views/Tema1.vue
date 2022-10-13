@@ -32,7 +32,7 @@
                 h3.mb-1 MINISTERIO DE SALUD Y PROTECCIÓN SOCIAL
                 p.text-small Para profundizar sobre la resolución, puede ingresar a:
               .col-sm-auto
-                a.boton.color-acento-botones(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                a.boton.color-acento-botones(href="https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No.%20214%20de%202022.pdf" target="_blank")
                   span(style="min-width: 100px; color: black;") Enlace web
                   <svg xmlns="http://www.w3.org/2000/svg" width="14.771" height="14.765" viewBox="0 0 14.771 14.765">
                     <g id="Grupo_877649" data-name="Grupo 877649" transform="translate(-1257.741 -15325.617)">
@@ -201,7 +201,7 @@
         .tarjeta.p-4(style="border-radius: 0; background-color: #E7F9FA")
           .row.justify-content-center.mb-3
             img(src='@/assets/curso/temas/tema1/img-12.jpg' data-aos="fade-right")
-          p(data-aos="fade-left") #[b Scanner:] dispositivo tecnológico que se encarga de obtener imágenes, señales o información de todo tipo de objeto. 
+          p(data-aos="fade-left") #[b #[em Scanner:]] dispositivo tecnológico que se encarga de obtener imágenes, señales o información de todo tipo de objeto. 
         
         .tarjeta.p-4(style="border-radius: 0; background-color: #CCE3F2")
           .row.justify-content-center.mb-3

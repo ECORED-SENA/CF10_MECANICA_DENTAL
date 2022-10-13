@@ -27,7 +27,7 @@
           .col-md-6.mb-4.mb-md-0
             h4 Clase II: desdentado unilateral posterior.
             p Presenta la zona posterior de un solo de un lado, desdentada. Esta clase admite también subdivisiones según el número de espacios desdentados existentes, aparte de aquel que dé la clase.
-      .py-3.py-md-4(titulo="Clase II")
+      .py-3.py-md-4(titulo="Clase III")
         .row.col-xl-11.mx-auto.py-4
           .col-md-6
             figure
@@ -48,7 +48,7 @@
             p Esta clase no admite subdivisiones. Porque si presentara más de una brecha desdentada estaría encuadrada dentro de las clases I, II, III.
     
     .col-xl-10.mb-5.mx-auto
-      p(data-aos="fade-right") Para facilitar el empleo de la clasificación de Kennedy fueron propuestas las #[b(style="color: #0273BC") reglas de Applegate] con el objeto de considerar todas aquellas situaciones que eran difíciles de definir, a saber: 
+      p(data-aos="fade-right") Para facilitar el empleo de la clasificación de Kennedy fueron propuestas las #[b(style="color: #0273BC") reglas de #[em Applegate]] con el objeto de considerar todas aquellas situaciones que eran difíciles de definir, a saber: 
 
     .d-flex.flex-wrap.align-items-center.mb-5
       .col-xl-6.order-2.order-xl-1
@@ -203,7 +203,7 @@
             figure
               img(src='@/assets/curso/temas/tema2/img-17.jpg')
           .col-md-6.mb-4.mb-md-0
-            p La evolución para el área de las prótesis removibles se enfoca en las estructuras metálicas, ya que con la llegada del CAD-CAM, el software de diseño, cada día se integran innovadoras herramientas de trabajo que conceden el mayor aprovechamiento de los recursos informáticos en la ejecución del diseño individual de cada caso clínico.
+            p La evolución para el área de las prótesis removibles se enfoca en las estructuras metálicas, ya que con la llegada del CAD-CAM, el #[em software] de diseño, cada día se integran innovadoras herramientas de trabajo que conceden el mayor aprovechamiento de los recursos informáticos en la ejecución del diseño individual de cada caso clínico.
         
         .row.col-xl-11.mx-auto(titulo="Actual III")
           .col-md-6

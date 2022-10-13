@@ -76,7 +76,7 @@
       .col-xl-10.mx-auto
         .title-edit(data-aos="fade-left")
           img(src="@/assets/curso/temas/tema1/decorador-1.svg" style="max-width: 30px")
-          h4 Requisitos de los establecimientos
+          h4 Las propiedades físicas
         p.mb-5(data-aos="fade-right") Hacen referencia al conocimiento que como técnicos dentales se deben tener presentes en cuanto al comportamiento del material que se utiliza en la elaboración de las prótesis dentales.
 
         img.mb-5.d-none.d-md-flex(src='@/assets/curso/temas/tema4/img-6.svg' data-aos="fade-left")

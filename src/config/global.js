@@ -423,6 +423,12 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
+        nombre: 'Melina Tatiana Quintero Rodriguez',
+        cargo: 'Validación de contenidos',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
         nombre: 'Wilson Andrés Arenales Cáceres',
         cargo: 'Validación Ilustración',
         centro:

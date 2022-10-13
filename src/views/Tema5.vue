@@ -7,7 +7,7 @@
         span 5
       h1 Prescripción clínica
     
-    p.mb-5(data-aos="fade-right") La prescripción deberá estar sustentada en una evaluación previa del paciente, se realizará en idioma español, en forma escrita, sea manuscrita, mecanográfica, medio electromagnético o computarizada. No podrá contener enmendaduras o tachaduras, siglas, claves, abreviaturas o símbolos, diferentes a los estipulados en lex - artis o convenciones internacionales y contendrá la siguiente información:
+    p.mb-5(data-aos="fade-right") La prescripción deberá estar sustentada en una evaluación previa del paciente, se realizará en idioma español, en forma escrita, sea manuscrita, mecanográfica, medio electromagnético o computarizada. No podrá contener enmendaduras o tachaduras, siglas, claves, abreviaturas o símbolos, diferentes a los estipulados en #[em lex - artis] o convenciones internacionales y contendrá la siguiente información:
 
     .mb-5.p-4(style="background-color: #E7F9FA")
       .col-xl-10.d-flex.flex-wrap.align-items-center.mx-auto
