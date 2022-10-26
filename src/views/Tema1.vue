@@ -48,7 +48,7 @@
     Separador
 
     .titulo-segundo.color-acento-contenido
-      h2#t_1_2 1.1 Lineamientos para su funcionamiento 
+      h2#t_1_1 1.1 Lineamientos para su funcionamiento 
 
     p.mb-5(data-aos="fade-right") La autorización de apertura y funcionamiento de los establecimientos interesados en fabricar y reparar dispositivos médicos sobre medida bucal, una vez inscritos deberán solicitar la autorización de apertura y funcionamiento ante el Invima que verificará el cumplimiento de los requisitos sanitarios, según corresponda de acuerdo con el procedimiento que dicha entidad defina dentro de los seis (6) meses siguientes a la expedición del presente acto administrativo.
 
@@ -75,19 +75,19 @@
             img(src="@/assets/curso/temas/tema1/d-2.svg" style="max-width: 25px; margin-left: -6px")
             h4.mb-0.p-3.text-center Áreas y zonas generales de las instalaciones
         .col-12.col-md-6.col-lg-4.col-xl-3.px-2.mb-4.d-flex
-          .w-100.p-1(style="background-color: white; border-left: 8px solid #13C6CC;" data-aos="fade-right")
+          .w-100.p-1(style="background-color: white; border-left: 8px solid #0273BC;" data-aos="fade-right")
             img(src="@/assets/curso/temas/tema1/d-1.svg" style="max-width: 25px; margin-left: -6px")
             h4.mb-0.p-3.text-center Requisitos de dotación
         .col-12.col-md-6.col-lg-4.col-xl-3.px-2.mb-4.d-flex
-          .w-100.p-1(style="background-color: white; border-left: 8px solid #0273BC;" data-aos="fade-right")
+          .w-100.p-1(style="background-color: white; border-left: 8px solid #13C6CC;" data-aos="fade-right")
             img(src="@/assets/curso/temas/tema1/d-2.svg" style="max-width: 25px; margin-left: -6px")
             h4.mb-0.p-3.text-center Requisitos del talento humano
         .col-12.col-md-6.col-lg-4.col-xl-3.px-2.mb-4.d-flex
-          .w-100.p-1(style="background-color: white; border-left: 8px solid #13C6CC;" data-aos="fade-left")
+          .w-100.p-1(style="background-color: white; border-left: 8px solid #0273BC;" data-aos="fade-left")
             img(src="@/assets/curso/temas/tema1/d-1.svg" style="max-width: 25px; margin-left: -6px")
             h4.mb-0.p-3.text-center Requisitos de control de calidad
         .col-12.col-md-6.col-lg-4.col-xl-3.px-2.mb-4.d-flex
-          .w-100.p-1(style="background-color: white; border-left: 8px solid #0273BC;" data-aos="fade-left")
+          .w-100.p-1(style="background-color: white; border-left: 8px solid #13C6CC;" data-aos="fade-left")
             img(src="@/assets/curso/temas/tema1/d-2.svg" style="max-width: 25px; margin-left: -6px")
             h4.mb-0.p-3.text-center Documentación y archivo
             
@@ -274,7 +274,7 @@
     p.mb-5(data-aos="fade-right") El #[b(style="color: #0273BC") personal] que puede trabajar en un laboratorio dental debe ser un técnico en mecánica dental que participa en la fabricación del dispositivo médico, siguiendo procedimientos establecidos para el proceso de fabricación y bajo la supervisión del director técnico. Las responsabilidades del personal son las siguientes: 
 
     .col-xl-10.mx-auto.d-flex.flex-wrap(style="background-color: #E5F1F8")
-      .col-lg-4.mx-auto.mb-4.mb-xl-0
+      .col-lg-4.mx-auto.mb-4.mb-xl-0.mt-auto
         img(src='@/assets/curso/temas/tema1/img-16.svg' data-aos="fade-right")
       .col-xl-8
         .d-flex.align-items-center.p-4(data-aos="fade-left")
@@ -322,4 +322,10 @@ export default {
     border-radius: 0
     background-color: transparent
     border-bottom: 1px solid #13C6CC
+.img-infografica
+  .img-infografica__content
+    .img-infografica__item
+      .img-infografica__item__numero
+        color: black
+        font-weight: bold
 </style>

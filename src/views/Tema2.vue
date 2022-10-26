@@ -12,7 +12,7 @@
     TabsC.tabs-c-edit.color-acento-contenido.mb-5(data-aos="fade-left")
       .py-3.py-md-4(titulo="Clase I")
         .row.col-xl-11.mx-auto.py-4
-          .col-md-6
+          .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema2/img-2.png')
           .col-md-6.mb-4.mb-md-0
@@ -21,7 +21,7 @@
       
       .py-3.py-md-4(titulo="Clase II")
         .row.col-xl-11.mx-auto.py-4
-          .col-md-6
+          .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema2/img-3.png')
           .col-md-6.mb-4.mb-md-0
@@ -29,7 +29,7 @@
             p Presenta la zona posterior de un solo de un lado, desdentada. Esta clase admite también subdivisiones según el número de espacios desdentados existentes, aparte de aquel que dé la clase.
       .py-3.py-md-4(titulo="Clase III")
         .row.col-xl-11.mx-auto.py-4
-          .col-md-6
+          .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema2/img-4.png')
           .col-md-6.mb-4.mb-md-0
@@ -40,7 +40,7 @@
               |Aclaración: cuando las brechas son múltiples se debe considerar la brecha más posterior, la cual determinará la clase y las restantes darán la subdivisión.
       .py-3.py-md-4(titulo="Clase IV")
         .row.col-xl-11.mx-auto.py-4
-          .col-md-6
+          .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema2/img-5.png')
           .col-md-6.mb-4.mb-md-0
@@ -51,8 +51,8 @@
       p(data-aos="fade-right") Para facilitar el empleo de la clasificación de Kennedy fueron propuestas las #[b(style="color: #0273BC") reglas de #[em Applegate]] con el objeto de considerar todas aquellas situaciones que eran difíciles de definir, a saber: 
 
     .d-flex.flex-wrap.align-items-center.mb-5
-      .col-xl-6.order-2.order-xl-1
-        SlyderF.tarjtas-slyder-f(columnas="col-12" data-aos="fade-right")
+      .col-12.col-xl-6.order-2.order-xl-1
+        SlyderF.tarjtas-slyder-f.w-100(columnas="col-12" data-aos="fade-right")
           .col-12
             .tarjeta.tarjeta--azul.d-flex.mb-3.w-100(style="overflow: hidden; min-height: 144px")
               .d-flex.align-items-center.justify-content-center(style="width: 85px; background-color: #0273BC;")
@@ -100,7 +100,7 @@
                 span(style="font-size: 35px; color: white; font-weight: bold;") 08
               .col.p-4.d-flex.align-items-center
                 p.mb-0 Solo las clases I, II y III pueden tener subdivisiones.
-      .col-xl-4.order-1.order-xl-2.mx-auto
+      .col-xl-4.order-1.order-xl-2.mx-auto.mb-4.mb-xl-0
         img(src='@/assets/curso/temas/tema2/img-6.png' style="max-width: 400px" data-aos="fade-left")
     Separador
 
@@ -140,73 +140,76 @@
     
     p.mb-5(data-aos="fade-right") Las enfermedades han aquejado a la humanidad desde sus inicios, en especial el agudo y lancinante dolor dentario producido por una caries profunda o un absceso periapical. Además, las técnicas curativas y rehabilitadoras han sido practicadas por muchos médicos a lo largo de la historia, por lo que la confección y fabricación de prótesis dentales es una tarea importante desde la Antigüedad, a continuación se presenta esta evolución: 
 
-    .tarjeta.tarjeta--gris.p-4.mb-5(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img-8.svg')})`}" data-aos="fade-left")
+    .tarjeta.tarjeta--gris.p-4.mb-5(
+      :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img-8.svg')})`}"
+      style="background-repeat: no-repeat; background-size: cover;"
+      data-aos="fade-left")
       LineaTiempoC.linea-tiempo-c-edit.color-acento-contenido(text-small)
         .row.col-xl-11.mx-auto(titulo="45 a.C.")
-          .col-md-6
+          .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema2/img-9.jpg')
           .col-md-6.mb-4.mb-md-0
             p Dentaduras fijas y removibles fueron empleadas por los romanos en 45 a. de C. En 35 a. de C. Horacio hace referencia a las prótesis dentales romanas.
         
         .row.col-xl-11.mx-auto(titulo="500 a.C.")
-          .col-md-6
+          .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema2/img-10.jpg')
           .col-md-6.mb-4.mb-md-0
             p Prótesis Etrusca 500 a. de C. Se observan algunos instrumentos usados por los dentistas antes de esta era, primera incrustación dentaria maya, hecha de jade y turquesa, puentes artificiales en marfil descubiertos en fenicia, fórceps árabe para extraer dientes rotos.
         
         .row.col-xl-11.mx-auto(titulo="1600 - 1840")
-          .col-md-6
+          .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema2/img-11.jpg')
           .col-md-6.mb-4.mb-md-0
             p De 1600 a 1840 quedaron establecidos los cimientos de la odontología como ciencia. En Francia y Alemania e Italia se utilizaban dientes de hueso y marfil tallados sujetos a los dientes vecinos con alambres de oro y plata. En 1700 Mattheus Gottfried Purmann es el primer autor que habla del uso de modelos de cera para trabajos protésicos.  
           
         .row.col-xl-11.mx-auto(titulo="1728")
-          .col-md-6
+          .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema2/img-12.jpg')
           .col-md-6.mb-4.mb-md-0
             p En 1728 Pierre Fauchaurd describe en su libro diversas técnicas quirúrgicas y protésicas, Lorenz Heister (1683-1758) fue el primero que empezó a hablar de prótesis removibles.
         
         .row.col-xl-11.mx-auto(titulo="1789")
-          .col-md-6
+          .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema2/img-13.jpg')
           .col-md-6.mb-4.mb-md-0
             p En 1789 se utiliza la porcelana cocida para la fabricación de dientes, en 1778 Nicholas Dubois, dentista francés, presentó por primera vez una dentadura completa de porcelana cocida, Pierre Fauchard describió cómo se deben hacer los puentes y las dentaduras completas; propuso usar dientes humanos, marfil, toro o elefante.
         
         .row.col-xl-11.mx-auto(titulo="Siglo XIX")
-          .col-md-6
+          .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema2/img-14.jpg')
           .col-md-6.mb-4.mb-md-0
             p A finales del siglo XIX se conocían los principios fundamentales en los que se basan procedimientos tales como: obtención de impresiones, construcción de dentaduras parciales y totales.
         
         .row.col-xl-11.mx-auto(titulo="1935")
-          .col-md-6
+          .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema2/img-15.jpg')
           .col-md-6.mb-4.mb-md-0
             p En 1935 se comienza a usar la resina acrílica polimerizada como base para los dientes artificiales. Y a partir de allí se estudian día a día formas y nuevas técnicas para mejorar su aspecto.
         
         .row.col-xl-11.mx-auto(titulo="Actual I")
-          .col-md-6
+          .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema2/img-16.jpg')
           .col-md-6.mb-4.mb-md-0
             p Durante los últimos años se producen avances tecnológicos y biológicos muy importantes en las prótesis.
         
         .row.col-xl-11.mx-auto(titulo="Actual II")
-          .col-md-6
+          .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema2/img-17.jpg')
           .col-md-6.mb-4.mb-md-0
             p La evolución para el área de las prótesis removibles se enfoca en las estructuras metálicas, ya que con la llegada del CAD-CAM, el #[em software] de diseño, cada día se integran innovadoras herramientas de trabajo que conceden el mayor aprovechamiento de los recursos informáticos en la ejecución del diseño individual de cada caso clínico.
         
         .row.col-xl-11.mx-auto(titulo="Actual III")
-          .col-md-6
+          .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema2/img-18.jpg')
           .col-md-6.mb-4.mb-md-0
@@ -235,19 +238,19 @@
           img.ms-auto(src="@/assets/curso/temas/tema1/d-2.svg" style="max-width: 25px; margin-right: -6px")
           h4.mb-0.p-3.py-xl-4.text-center Prevenir la migración, inclinación y obstrucción de dientes remanentes
       .col-12.col-md-6.col-lg-4.col-xl-3.px-2.mb-4.d-flex
-        .w-100.p-1(style="background-color: #E7F9FA; border-right: 8px solid #13C6CC;" data-aos="fade-right")
+        .w-100.p-1(style="background-color: #DCEBF6; border-right: 8px solid #0273BC;" data-aos="fade-right")
           img.ms-auto(src="@/assets/curso/temas/tema1/d-1.svg" style="max-width: 25px; margin-right: -6px")
           h4.mb-0.p-3.py-xl-4.text-center Estabilizar los dientes debilitados
       .col-12.col-md-6.col-lg-4.col-xl-3.px-2.mb-4.d-flex
-        .w-100.p-1(style="background-color: #DCEBF6; border-right: 8px solid #0273BC;" data-aos="fade-right")
+        .w-100.p-1(style="background-color: #E7F9FA; border-right: 8px solid #13C6CC;" data-aos="fade-right")
           img.ms-auto(src="@/assets/curso/temas/tema1/d-2.svg" style="max-width: 25px; margin-right: -6px")
           h4.mb-0.p-3.py-xl-4.text-center Preservar los dientes remanentes
       .col-12.col-md-6.col-lg-4.col-xl-3.px-2.mb-4.d-flex
-        .w-100.p-1(style="background-color: #E7F9FA; border-right: 8px solid #13C6CC;" data-aos="fade-left")
+        .w-100.p-1(style="background-color: #DCEBF6; border-right: 8px solid #0273BC;" data-aos="fade-left")
           img.ms-auto(src="@/assets/curso/temas/tema1/d-1.svg" style="max-width: 25px; margin-right: -6px")
           h4.mb-0.p-3.py-xl-4.text-center Cumplir con los principios biomecánicos de estabilidad, retención, reciprocidad y fijación 
       .col-12.col-md-6.col-lg-4.col-xl-3.px-2.mb-4.d-flex
-        .w-100.p-1(style="background-color: #DCEBF6; border-right: 8px solid #0273BC;" data-aos="fade-left")
+        .w-100.p-1(style="background-color: #E7F9FA; border-right: 8px solid #13C6CC;" data-aos="fade-left")
           img.ms-auto(src="@/assets/curso/temas/tema1/d-2.svg" style="max-width: 25px; margin-right: -6px")
           h4.mb-0.p-3.py-xl-4.text-center Restablecer un adecuado plano oclusal
       .col-12.col-md-6.col-lg-4.col-xl-3.px-2.mb-4.d-flex
@@ -335,6 +338,18 @@ export default {
     margin-bottom: 0
   .tabs-c__content-item
     background-image: url('../assets/curso/temas/tema2/img-1.svg')
+    background-repeat: no-repeat
+    background-size: cover
+  .tabs-c__tab
+    background-color: #DEE4F0
+    border-color: #DEE4F0
+    &::after
+      background-color: #707070
+  .tabs-c__tab--active
+    background-color: white
+    font-weight: bold
+    &::after
+      background-color: transparent
 .linea-tiempo-c-edit
   .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right
     background-color: #FFE000

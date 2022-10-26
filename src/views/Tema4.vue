@@ -79,7 +79,7 @@
           h4 Las propiedades físicas
         p.mb-5(data-aos="fade-right") Hacen referencia al conocimiento que como técnicos dentales se deben tener presentes en cuanto al comportamiento del material que se utiliza en la elaboración de las prótesis dentales.
 
-        img.mb-5.d-none.d-md-flex(src='@/assets/curso/temas/tema4/img-6.svg' data-aos="fade-left")
+        img.mb-5.d-none.d-md-flex(src='@/assets/curso/temas/tema4/img-6.png' data-aos="fade-left")
         img.mb-5.d-flex.d-md-none(src='@/assets/curso/temas/tema4/img-6-movil.png' data-aos="fade-left")
 
     .title-edit(data-aos="fade-left")
@@ -88,7 +88,7 @@
     
     p.mb-5(data-aos="fade-right") Desde que el paciente visita al odontólogo es importante tener en cuenta las propiedades químicas de los materiales dentales, porque desde allí, el clínico manifiesta a través de la orden de trabajo que material dental es biocompatible con el paciente, es claro que la materia cambia de composición y comportamiento además como técnicos dentales se debe poseer un conocimiento básico acerca de ellos,  ya  que  permitirá en algunas ocasiones asesorar al profesional para seleccionar el material más adecuado. Las  estructuras  de  la  cavidad  bucal  están constantemente expuestas a cambios, ya sea por reacciones químicas o fluidos orgánicos, entre otros, lo que puede llegar a perjudicar negativamente las estructuras que la componen.
 
-    .tarjeta(style="background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(231,249,250,1) 100%);")
+    .tarjeta.mb-5(style="background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(231,249,250,1) 100%);")
       .col-xl-10.d-flex.flex-wrap.align-items-center.mx-auto
         .col-lg-4.mb-4.mb-lg-0.mx-auto
           img(src="@/assets/curso/temas/tema4/img-7.png" data-aos="fade-right")
@@ -105,22 +105,22 @@
     p.mb-5(data-aos="fade-right") Permiten entender el comportamiento de un material sometido a la acción de fuerzas.
 
     .tarjeta.row.mb-5(style="overflow: hidden;")
-      .col-md-6.col-lg.tarjeta--tabla.p-4(data-aos="fade-right")
+      .col-md-6.col-lg.tarjeta--tabla.p-4(data-aos="fade-right" style="background-color: #DCEBF6")
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/temas/tema4/t1.svg')
         p #[b Elasticidad:] indica la rigidez relativa. Cuanto más elevado sea el módulo, más rígida será la aleación. El módulo de elasticidad para las aleaciones protésicas debe ser alto para que la prótesis pueda resistir la flexión, especialmente en restauraciones metal-cerámica donde la flexión pueda causar la fractura de la porcelana.
-      .col-md-6.col-lg.tarjeta--tabla.p-4(data-aos="fade-right")
+      .col-md-6.col-lg.tarjeta--tabla.p-4(data-aos="fade-right" style="background-color: #E7F9FA")
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/temas/tema4/t2.svg')
         p #[b Límite proporcional:] se define como la máxima fuerza que puede soportar un material sin que sufra deformación permanente. Esta propiedad permite al profesional evaluar el comportamiento de una aleación ante un esfuerzo masticatorio. Dicho valor debe ser de alto nivel pues, en caso contrario, las estructuras coladas se verán expuestas a deformaciones indeseables.
-      .col-md-6.col-lg.tarjeta--tabla.p-4(data-aos="fade-left")
+      .col-md-6.col-lg.tarjeta--tabla.p-4(data-aos="fade-left" style="background-color: #DCEBF6")
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/temas/tema4/t3.svg')
         p #[b Porcentaje de elongación:] es una medida de la ductilidad. Cuanto mayor sea el porcentaje de elongación, más cederá la aleación al pulir o presionarla. La combinación del límite proporcional y el porcentaje de elongación constituyen el grado de manejabilidad de una aleación. Un límite proporcional alto y bajo porcentaje de elongación hace más difícil terminar los bordes y ajustar los ganchos.
-      .col-md-6.col-lg.tarjeta--tabla.p-4(data-aos="fade-left")
+      .col-md-6.col-lg.tarjeta--tabla.p-4(data-aos="fade-left" style="background-color: #E7F9FA")
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/temas/tema4/t4.svg')

@@ -96,4 +96,11 @@ export default {
 
 <style lang="sass">
 .linea-tiempo-edit
+  .linea-tiempo-d__item--selected
+    .linea-tiempo-d__item__content
+      transition: all .7s linear
+    .linea-tiempo-d__item__number
+      background-color: #E5F1F8
+    .linea-tiempo-d__item__content
+      background-color: #E5F1F8
 </style>

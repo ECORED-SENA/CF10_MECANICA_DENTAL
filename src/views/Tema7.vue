@@ -9,7 +9,7 @@
     p.mb-5(data-aos="fade-right") El control de calidad es un tema bastante importante en la fabricación de los diferentes dispositivos dentales y el de prótesis fija no es la excepción, ya que, desde la recepción, tanto de la impresión como el registro de mordida y el modelo antagonista, se hace necesario la desinfección de estos, para dar inicio con la elaboración del producto solicitado por el profesional de la odontología.
 
     .col-xl-10.mx-auto.mb-5
-      .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+      .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(style="background-color: #0273BC")
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema7/img-1.jpg')})`}"
         )
@@ -20,7 +20,7 @@
       img.d-none.d-md-flex(src="@/assets/curso/temas/tema7/img-2.svg" data-aos="fade-left")
       img.d-flex.d-md-none(src="@/assets/curso/temas/tema7/img-2-movil.svg" data-aos="fade-left")
     .tarjeta.row.mb-5(style="overflow: hidden;")
-      .col-md-6.col-lg.tarjeta--tabla.p-4(data-aos="fade-right")
+      .col-md-6.col-lg.tarjeta--tabla.p-4(style="background-color: #DCEBF6" data-aos="fade-right")
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/temas/tema7/t1.svg')
@@ -38,10 +38,10 @@
         p.px-xl-5 Los establecimientos deberán cumplir los siguientes requisitos de control de calidad: 
           br
           br
-          |#[b(style="color: #13C6CC") ●] Certificados de análisis/fichas técnicas, cuando aplique, entregados por el proveedor de materias primas, componentes e insumos, que se utilizan en la fabricación de dispositivos médicos sobre medida bucal. 
+          |#[b(style="color: #0273BC") ●] Certificados de análisis/fichas técnicas, cuando aplique, entregados por el proveedor de materias primas, componentes e insumos, que se utilizan en la fabricación de dispositivos médicos sobre medida bucal. 
           br
           br
-          |#[b(style="color: #13C6CC") ●] Registro de la verificación de los puntos críticos, análisis de las desviaciones encontradas en los dispositivos de cada línea y acciones de mejora para la corrección de dichas desviaciones.
+          |#[b(style="color: #0273BC") ●] Registro de la verificación de los puntos críticos, análisis de las desviaciones encontradas en los dispositivos de cada línea y acciones de mejora para la corrección de dichas desviaciones.
 
 </template>
 

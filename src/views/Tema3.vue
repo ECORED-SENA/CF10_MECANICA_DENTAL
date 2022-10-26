@@ -23,13 +23,13 @@
     p.mb-5 La prótesis parcial removible de extremo libre, por el contrario, es de tipo dentomucosoportada, lo que equivale a decir que el soporte se lo brindan: 
 
     .col-lg-10.col-xl-8.d-flex.flex-wrap.mx-auto.mb-5
-      .col-12.col-md-6.px-2
+      .col-12.col-md-6.px-2.mb-4.mb-md-0
         .tarjeta-avatar(style="padding-top: 45px")
           img(src='@/assets/curso/temas/tema3/d-1.svg' style="max-width: 85px")
           .tarjeta.color-primario.w-100(style="background-color: #E5F1F8; padding-top: 30px !important")
             .p-4.px-lg-5
               p(style="color: black") #[b(style="color: #0273BC") A.] La mucosa bucal que recubre los rebordes alveolares residuales.
-      .col-12.col-md-6.px-2
+      .col-12.col-md-6.px-2.mb-4.mb-md-0
         .tarjeta-avatar(style="padding-top: 45px")
           img(src='@/assets/curso/temas/tema3/d-2.svg' style="max-width: 85px")
           .tarjeta.color-primario.w-100(style="background-color: #E5F1F8; padding-top: 30px !important")
