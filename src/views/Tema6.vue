@@ -18,16 +18,53 @@
         |Los componentes de una prótesis parcial removible deben ser los necesarios y en el lugar indicado, sin sacrificar funcionalidad ni afectar la rehabilitación. Es decir, que sea un diseño simple, confortable, funcional y que ayude a preservar las estructuras de soporte.
       .col-xl-3.mb-4.mb-xl-0.order-1.order-xl-3.mx-auto
         img(src="@/assets/curso/temas/tema6/img-1.png" data-aos="fade-left")
-    p.mb-5(data-aos="fade-right") Para comprender sobre el diseño y fabricación de prótesis fijas de manera analógica, se invita a ver el siguiente video.
+    p.mb-5(data-aos="fade-right") Para comprender sobre el diseño y fabricación de prótesis fijas de manera analógica, se invita a ver los siguientes videos.
 
-    figure.mb-5(data-aos="fade-left")
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    p.mb-5(data-aos="fade-right") Para conocer cómo se realiza el diseño y fabricación de prótesis fijas de manera digital se puede ver este video:
-
-    figure.mb-5(data-aos="fade-left")
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    LineaTiempoD.linea-tiempo-edit(data-aos="fade-right")
+      div(numero="1" titulo="Proceso de diseño y elaboración 1 (análogo): Diseño")
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/VN0goQBImMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      div(numero="2" titulo="Paralerizado")
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/LEvZ1wEchrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      div(numero="3" titulo="Proceso de diseño y elaboración 1 (análogo): Duplicado de modelo")
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/jMbZ9SrS8yU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      div(numero="4" titulo="Proceso de diseño y elaboración 1 (análogo): Vaciado del modelo duplicado")
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/r_Q8Xv1h8Qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      div(numero="5" titulo="Proceso de diseño y elaboración 1 (análogo): Encerado de estructura")
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/IYRrMIA_NFU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      div(numero="6" titulo="Proceso de diseño y elaboración 1 (análogo) : Adición de viaductos")
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/w-cIKpIChx4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      div(numero="7" titulo="Proceso de diseño y elaboración 1 (análogo) : Revestido o anillado de la estructura")
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/iZ0ufRD6ixA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      div(numero="8" titulo="Proceso de diseño y elaboración 1 (análogo) : Elementos de protección personal")
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/amWzuvcWVC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      div(numero="9" titulo="Proceso de diseño y elaboración 1 (análogo): Fundición")
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/fQpDTI6ZibA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      div(numero="10" titulo="Proceso de diseño y elaboración 1 (análogo): Decapado")
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/E5BsIvVFYAc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      div(numero="11" titulo="Proceso de diseño y elaboración 1 (análogo): Arenado")
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/npnWf0gjoP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 </template>
 
 <script>

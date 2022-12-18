@@ -42,6 +42,10 @@
         |Esto significa que los dientes pilares, en condiciones normales bajo presión, pueden instruirse hasta un máximo de 0,2 milímetros. La mucosa bucal que recubre los rebordes alveolares residuales va en contacto directo con la parte interna y los bordes de la prótesis, su espesor aproximado es de 2 mm.
       img.d-none.d-md-flex(src='@/assets/curso/temas/tema3/img-2.jpg')
       img.d-flex.d-md-none(src='@/assets/curso/temas/tema3/img-2-movil.jpg')
+    p.mb-5 Para conocer más lo invitamos a conocer los tipos de prótesis:
+    figure.mb-5(data-aos="fade-left")
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/MQIUjqF0vos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 </template>
 
 <script>
