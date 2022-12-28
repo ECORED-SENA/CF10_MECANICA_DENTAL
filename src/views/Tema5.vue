@@ -51,7 +51,7 @@
             br
             |#[b(style="color: #0273BC") ●] Descripción de borde posterior o inferior (posición y distancia de las foveolas palatinas). 
             br
-            |#[b(style="color: #0273BC") ●] Línea de terminado (ubicación) indica el ancho mínimo de los componentes, así como la distancia a la que se encuentran del borde libre de la encía, del piso de boca o de las foveolas palatinas. Explicar en qué lugar se une el conector mayora la rejilla de retención y especificar que la línea de terminado es bien definida.
+            |#[b(style="color: #0273BC") ●] Línea de terminado (ubicación) indica el ancho mínimo de los componentes, así como la distancia a la que se encuentran del borde libre de la encía, del piso de boca o de las foveolas palatinas. Explicar en qué lugar se une el conector mayor a la rejilla de retención y especificar que la línea de terminado es bien definida.
           p(numero="5" titulo="Conectores menores") Indica entre qué piezas o el lado en el que se encuentra (mesial o distal).
           p(numero="6" titulo="Retenedores directos") #[b(style="color: #0273BC") ●] Pieza: número de pieza según la Nomenclatura Universal de Palmer en la que se colocará el retenedor directo. 
             br
@@ -63,7 +63,7 @@
             br
             |#[b(style="color: #0273BC") ●] Material: indica el material con el que se realizará el retenedor directo (cromo-cobalto, alambre forjado, combinado, otro).
 
-          p(numero="7" titulo="Retención indirecta") Ubica la pieza en la cual se colocará y la superficie (mesio-oclusal, disto-oclusal, lingual, etc.)
+          p(numero="7" titulo="Retención indirecta") Ubica la pieza en la cual se colocará y la superficie (mesio-oclusal, disto-oclusal, lingual, etc.).
           p(numero="8" titulo="Rejillas de retención") #[b(style="color: #0273BC") ●] Largo de la rejilla: cubriendo todo el proceso hamular en el maxilar superior y 2/3 del largo del espacio edéntulo en el maxilar inferior.
             br
             |#[b(style="color: #0273BC") ●] Extensión de la rejilla: desde la parte más prominente del reborde edéntulo 1 milímetro hacia bucal (por lingual hasta la mitad de la altura del reborde edéntulo, por palatal hasta donde se encontraba la encía inserta).

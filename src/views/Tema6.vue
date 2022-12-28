@@ -7,7 +7,7 @@
         span 6
       h1 Proceso de diseño y elaboración
 
-    p.mb-5(data-aos="fade-right") Existen una gran variedad de diseños de prótesis parcial removible. Se estima que se pueden hacer 65.000 combinaciones de dientes y espacios edéntulos en una arcada. El problema que se encuentra al revisar los diseños realizados en los laboratorios dentales es que estos no cumplen con las características que debe poseer cada parte de la prótesis parcial removible, como localización, forma y tamaño el conector mayor, cantidad y uniformidad del alivio, uso inadecuado de retención indirecta (en exceso o muy pobre), uso incorrecto de retenedores directos, etcétera.
+    p.mb-5(data-aos="fade-right") Existen una gran variedad de diseños de prótesis parcial removible. Se estima que se pueden hacer 65.000 combinaciones de dientes y espacios edéntulos en una arcada. El problema que se encuentra al revisar los diseños realizados en los laboratorios dentales es que estos no cumplen con las características que debe poseer cada parte de la prótesis parcial removible, como localización, forma y tamaño, el conector mayor, cantidad y uniformidad del alivio, uso inadecuado de retención indirecta (en exceso o muy pobre), uso incorrecto de retenedores directos, etcétera.
 
     .d-flex.flex-wrap.mb-5(style="background: linear-gradient(90deg, rgba(229,241,248,1) 44%, rgba(247,252,255,1) 85%);")
       .col-xl-1.d-none.d-xl-flex.align-items-start.mt-5.p-3

@@ -282,7 +282,7 @@
           p.ps-2.mb-0 Ejecutar los procedimientos establecidos, bajo la supervisión del director técnico para la fabricación y reparación de los dispositivos médicos sobre medida bucal.
         .d-flex.align-items-center.p-4(style="background-color: #E7F9FA" data-aos="fade-left")
           span(style="border-left: 10px solid #0273BC; border-right: 10px solid transparent; border-top: 10px solid transparent; border-bottom: 10px solid transparent;")
-          p.ps-2.mb-0 Responder por el cuidado yuso racional de materias primas, cuidado de máquinas, equipos, herramientas e instrumentos dados para realizar su labor.
+          p.ps-2.mb-0 Responder por el cuidado y uso racional de materias primas, cuidado de máquinas, equipos, herramientas e instrumentos dados para realizar su labor.
         .d-flex.align-items-center.p-4(data-aos="fade-left")
           span(style="border-left: 10px solid #0273BC; border-right: 10px solid transparent; border-top: 10px solid transparent; border-bottom: 10px solid transparent;")
           p.ps-2.mb-0 Informar al director técnico oportunamente acerca de los desperfectos de máquinas, equipos de medición, herramientas e instrumentos.

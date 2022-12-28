@@ -373,7 +373,7 @@ export default {
       {
         nombre: 'Daniel L. Toro A.',
         cargo: 'Instructor',
-        centro: 'Regional Antioquia/centro de servicios de salud',
+        centro: 'Regional Antioquia/Centro de Servicios de salud',
       },
       {
         nombre: 'Paola Alexandra Moya Peralta',

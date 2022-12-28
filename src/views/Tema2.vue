@@ -26,7 +26,7 @@
               img(src='@/assets/curso/temas/tema2/img-3.png')
           .col-md-6.mb-4.mb-md-0
             h4 Clase II: desdentado unilateral posterior.
-            p Presenta la zona posterior de un solo de un lado, desdentada. Esta clase admite también subdivisiones según el número de espacios desdentados existentes, aparte de aquel que dé la clase.
+            p Presenta la zona posterior de un solo lado, desdentada. Esta clase admite también subdivisiones según el número de espacios desdentados existentes, aparte de aquel que dé la clase.
       .py-3.py-md-4(titulo="Clase III")
         .row.col-xl-11.mx-auto.py-4
           .col-md-6.mb-4.mb-md-0
