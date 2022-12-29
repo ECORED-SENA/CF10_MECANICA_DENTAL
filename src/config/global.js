@@ -346,7 +346,7 @@ export default {
       referencia:
         'Giraldo, O. (2004). Metales y aleaciones en odontología. <em>Rev Fac Odont Univ Ant. 15(2), 53-63.</em>',
       link:
-        'https://revistas.udea.edu.co/index.php/odont/article/view/3244/3005',
+        'https://www.academia.edu/32005980/METALES_Y_ALEACIONES_EN_ODONTOLOG%C3%8DA',
     },
     {
       referencia:
