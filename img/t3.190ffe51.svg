@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="85" height="85" viewBox="0 0 85 85">
+  <g id="Grupo_878808" data-name="Grupo 878808" transform="translate(-913.83 -5464)">
+    <circle id="Elipse_5243" data-name="Elipse 5243" cx="42.5" cy="42.5" r="42.5" transform="translate(913.83 5464)" fill="#0273bc"/>
+    <g id="medir" transform="translate(933.83 5480.056)">
+      <g id="Grupo_878581" data-name="Grupo 878581" transform="translate(2 2)">
+        <path id="Trazado_607479" data-name="Trazado 607479" d="M22.622,43.244A20.622,20.622,0,1,1,43.244,22.622,20.682,20.682,0,0,1,22.622,43.244Zm0-37.119a16.5,16.5,0,1,0,16.5,16.5A16.546,16.546,0,0,0,22.622,6.124Z" transform="translate(-2 -2)" fill="#fff"/>
+      </g>
+      <g id="Grupo_878582" data-name="Grupo 878582" transform="translate(10.249 10.249)">
+        <path id="Trazado_607480" data-name="Trazado 607480" d="M8.062,20.435A1.948,1.948,0,0,1,6,18.373,12.409,12.409,0,0,1,18.373,6a1.948,1.948,0,0,1,2.062,2.062,1.948,1.948,0,0,1-2.062,2.062,8.273,8.273,0,0,0-8.249,8.249A1.948,1.948,0,0,1,8.062,20.435Z" transform="translate(-6 -6)" fill="#fff"/>
+      </g>
+      <g id="Grupo_878583" data-name="Grupo 878583" transform="translate(18.497 18.497)">
+        <path id="Trazado_607481" data-name="Trazado 607481" d="M14.124,18.249a4.124,4.124,0,1,1,4.124-4.124A4.136,4.136,0,0,1,14.124,18.249Z" transform="translate(-10 -10)" fill="#fff"/>
+      </g>
+      <g id="Grupo_878584" data-name="Grupo 878584" transform="translate(20.56 12.311)">
+        <path id="Trazado_607482" data-name="Trazado 607482" d="M13.062,19.373a1.872,1.872,0,0,1-1.444-.619,1.993,1.993,0,0,1,0-2.887l8.249-8.249a2.041,2.041,0,0,1,2.887,2.887l-8.249,8.249a1.872,1.872,0,0,1-1.444.619Z" transform="translate(-11 -7)" fill="#fff"/>
+      </g>
+    </g>
+    <path id="Trazado_607483" data-name="Trazado 607483" d="M50.77,58.555H2.777a1.777,1.777,0,0,1,0-3.555H50.77a1.777,1.777,0,0,1,0,3.555Z" transform="translate(929.556 5472.5)" fill="#fff" stroke="#fff" stroke-width="1"/>
+  </g>
+</svg>
